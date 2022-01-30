@@ -141,7 +141,7 @@ L:SetTimerLocalization{
 }
 
 L:SetOptionLocalization{
-	timerAura	= "為稜石光環顯示計時器"
+	timerAura	= "為稜石光環顯示計時器",
 	FAHelper	= "設定致命的吸引力的模組行為。團長的設置會覆蓋全團DBM的設定",
 	North		= "星星為左/西，圈圈為右/東，鑽石為上/北",--Default
 	South		= "星星為左/西，圈圈為右/東，鑽石為下/南",
